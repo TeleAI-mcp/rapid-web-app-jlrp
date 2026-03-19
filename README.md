@@ -1,2 +1,3 @@
-# rapid-web-app-jlrp
-A web application for modern development workflows
+# Rapid Web App Jlrp
+
+A web application for modern development workflows.
